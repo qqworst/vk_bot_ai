@@ -6,7 +6,7 @@ import os
 VK_API_TOKEN = os.getenv("VK_API_TOKEN", "vk1.a.QZ1duBjzU0FQ5-jsyplneOTqnGHPx3YpTz0Hat19FWQSu4Zp0s1bGnWveeZnSQ9Lr0_uXhwLkn8Hf7wZR_yKmipTkOPikIN0R40N4h55RD3HmE6STUbq-piLrz5BuPmxC0Vuo9x82aJzPwoDX-n4Ic4cy5WZfEIOqsHBxC01pdGvoos9MeQhfwszNl7qoSw3EorZ7f3dpW5jaKvxRg4VEw")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBEKiO012rhv7YplIDVIf61bnEF8qVaFxo")
 GROUP_ID = int(os.getenv("GROUP_ID", "233981911"))
-CONFIRMATION_STRING = os.getenv("CONFIRMATION_STRING", "a3185f4e")
+CONFIRMATION_STRING = os.getenv("CONFIRMATION_STRING", "917750fb")
 MODEL_NAME = "gemini-2.5-flash"
 
 app = Flask(__name__)
